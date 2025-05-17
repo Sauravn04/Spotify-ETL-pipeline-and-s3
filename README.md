@@ -1,6 +1,11 @@
 # Spotify-ETL-pipeline-and-s3
 This project extracts data from the Spotify API, stores it in PostgreSQL, and uploads it to AWS S3.
 
+---
+## Project Architecture
+![Project Architecture.](archirtecture.png)
+---
+
 ## Features
 - Spotify API integration
 - PostgreSQL local database
