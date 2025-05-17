@@ -1,2 +1,14 @@
 # Spotify-ETL-pipeline-and-s3
-This project is a complete ETL (Extract, Transform, Load) pipeline built in Python that integrates with the Spotify Web API, stores structured data in a PostgreSQL database, and uploads copy of  processed data to an Amazon S3 bucket.
+This project extracts data from the Spotify API, stores it in PostgreSQL, and uploads it to AWS S3.
+
+## Features
+- Spotify API integration
+- PostgreSQL local database
+- Data upload to AWS S3
+- Python-based ETL pipeline
+
+## Setup
+1. Create a `.env` file using `.env.example`
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
