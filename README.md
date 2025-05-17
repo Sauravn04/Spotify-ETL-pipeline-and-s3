@@ -3,7 +3,7 @@ This project extracts data from the Spotify API, stores it in PostgreSQL, and up
 
 ---
 ## Project Architecture
-![Project Architecture.](IMG\Architecture.png)
+![Project Architecture.](IMG/Architecture.png)
 ---
 
 ## Features
